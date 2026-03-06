@@ -1,52 +1,62 @@
 # 👨‍💻 Gabriel Duarte Tourinho
 
-🎓 Estudante de Tecnologia da Informação  
-📍 Rio de Janeiro - RJ  
-🎯 Buscando estágio em TI, Infraestrutura ou Cibersegurança
+🎓 Estudante de Tecnologia da Informação
+📍 Rio de Janeiro - RJ
+🔐 Interesse em Cibersegurança | Redes | Suporte Técnico
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Tecnologia da Informação com interesse nas áreas de suporte técnico, redes e segurança da informação. 
-Tenho conhecimentos em manutenção de computadores, diagnóstico de hardware, sistemas operacionais e fundamentos de redes.
+Sou estudante de Tecnologia da Informação apaixonado por tecnologia, redes e segurança da informação.
+Atualmente estou desenvolvendo projetos práticos e laboratórios para aprimorar meus conhecimentos em suporte técnico, diagnóstico de sistemas e fundamentos de cibersegurança.
 
-Busco minha primeira oportunidade de estágio para aplicar meus conhecimentos, aprender com profissionais da área e evoluir tecnicamente.
+Meu objetivo é conquistar uma oportunidade de estágio na área de TI para aplicar meus conhecimentos e continuar evoluindo profissionalmente.
 
 ---
 
 ## 🧠 Habilidades
 
-- Manutenção de computadores
-- Diagnóstico de hardware
-- Redes básicas
-- Sistemas operacionais
-- Conceitos de cibersegurança
-- Troubleshooting
+* Manutenção de computadores
+* Diagnóstico de hardware
+* Redes básicas
+* Troubleshooting
+* Conceitos de cibersegurança
+* Sistemas operacionais
 
 ---
 
 ## 💻 Projetos
 
-### 🔧 Manutenção de Computadores
-Guia prático de diagnóstico e manutenção de hardware.
+📂 **Manutenção de Computadores**
+Diagnóstico e solução de problemas comuns de hardware.
 
-### 🌐 Laboratório de Redes
-Estudos práticos utilizando comandos de rede e análise de conectividade.
+📂 **Laboratório de Redes**
+Testes de conectividade e análise de rede utilizando comandos.
 
-### 🔐 Fundamentos de Cibersegurança
-Anotações e estudos sobre segurança da informação, ameaças digitais e boas práticas.
+📂 **Fundamentos de Cibersegurança**
+Estudo de ameaças digitais e boas práticas de segurança.
+
+📂 **Laboratório Linux**
+Comandos e administração básica de sistemas Linux.
+
+📂 **Troubleshooting de Rede**
+Diagnóstico de problemas de conexão.
+
+📂 **Laboratório de Hacking Ético**
+Estudos iniciais de segurança ofensiva e análise de vulnerabilidades.
 
 ---
 
 ## 📚 Formação
 
-Análise e Desenvolvimento de Sistemas
+🎓 Graduação em Tecnologia da Informação
 Previsão de conclusão: 2026
 
 ---
 
-## 📞 Contato
+## 📫 Contato
 
-📧 Email: Gabrielduartevp@gmail.com
+📧 Email: [Gabrielduartevp@gmail.com](mailto:Gabrielduartevp@gmail.com)
 💼 LinkedIn: https://www.linkedin.com/in/gabriel-duarte-7223ab145/
+
