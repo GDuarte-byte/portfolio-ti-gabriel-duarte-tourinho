@@ -1,1 +1,0 @@
-Esta pasta será utilizada para armazenar arquivos relacionados a esta categoria.
