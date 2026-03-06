@@ -41,12 +41,12 @@ Anotações e estudos sobre segurança da informação, ameaças digitais e boas
 
 ## 📚 Formação
 
-Tecnologia da Informação  
+Análise e Desenvolvimento de Sistemas
 Previsão de conclusão: 2026
 
 ---
 
 ## 📞 Contato
 
-📧 Email: coloque_seu_email_aqui  
-💼 LinkedIn: coloque_seu_linkedin_aqui
+📧 Email: Gabrielduartevp@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-duarte-7223ab145/
